@@ -12,4 +12,4 @@ A friend was making his personal page with a static website generator, and was d
 
 Anyways, that's all for this time!
 
-- Tamjeed
+-Tamjeed

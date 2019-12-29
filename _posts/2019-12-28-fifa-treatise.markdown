@@ -6,7 +6,7 @@ categories: sports
 ---
 This post is (semi)satirical-ish, maybe.
 
-A while ago, I read an [article][article-link] in Columbia's satirical Federalist student newspaper that I found to be a real knee-slapper<sup>TM</sup> and helped confirm what I already had surmised: the EA Sports game commonly known as `FIFA` has some popularity amongst the college male youth.
+A while ago, I read an [article][article-link] in Columbia's satirical Federalist student newspaper that I found to be a real knee-slapper<sup>TM</sup>. Additionally, it helped confirm what I already had surmised: the EA Sports game commonly known as `FIFA` has some popularity amongst the college male youth.
 
 But this wasn't all. I felt emotionally validated after I read this article, because I played `FIFA` in the past. A lot. And I still play a lot. And this moves me to reflect upon what I hope is not the opinion of just myself, but of millions of other people.
 
